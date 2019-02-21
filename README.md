@@ -1,5 +1,4 @@
 ## Nikolai Kushner
- HTML CSS Basics: [https://www.codecademy.com/users/nik_front_end/achievements](https://www.codecademy.com/users/nik_front_end/achievements){:target="_blank"}  (codecademy)
-HTML CSS Basics: [https://htmlacademy.ru/profile/id786083/achievements](https://htmlacademy.ru/profile/id786083/achievements){:target="_blank"}  (htmlacademy)
-[Google](https://google.com" target="_blank)
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+HTML CSS Basics: <a href="https://www.codecademy.com/users/nik_front_end/achievements" target="_blank">https://www.codecademy.com/users/nik_front_end/achievements</a> (codecademy)
+ 
+HTML CSS Basics: <a href="https://htmlacademy.ru/profile/id786083/achievements" target="_blank">https://htmlacademy.ru/profile/id786083/achievements</a> (htmlacademy)
